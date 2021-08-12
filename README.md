@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Money Transfer](https://github.com/CoolAleks/Money-Transfer/issues/1)
+* [Некорректный вывод остатков на счёте в итоговом значении](https://github.com/CoolAleks/Money-Transfer/issues/1)
 
 Тестирование производилось в следующем окружении:
 * windows 10pro 64 bit
